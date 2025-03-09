@@ -3,7 +3,7 @@
 
 ## Baixar e Executar
 ```bash
-git clone https://github.com/Freitaszito/ForceDir
+git clone https://github.com/Freitael/ForceDir
 cd ForceDir
 python3 forcedir.py
 ```
