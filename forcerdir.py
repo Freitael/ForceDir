@@ -14,7 +14,7 @@ banner()
 
 print()
 
-print('Por: https://github.com/Freitaszito')
+print('Por: https://github.com/Freitael')
 
 print()
 
